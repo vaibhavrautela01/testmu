@@ -1,4 +1,4 @@
-# TestMu AI Assignment
+# TestMu Assignment
 
 ## Tech Used
 - Playwright (JavaScript)
